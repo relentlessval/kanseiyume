@@ -1,6 +1,6 @@
 ### Hiya!
 
-[![ikyushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikyushi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![ikyushiのGitHubスタッツ](https://github-readme-stats.vercel.app/api?username=ikyushi&count_private=true&show_icons=true&theme=tokyonight&locale=jp)](https://github.com/anuraghazra/github-readme-stats)
+[![ikyushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikyushi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![ikyushiのGitHubスタッツ](https://github-readme-stats.vercel.app/api?username=ikyushi&count_private=true&show_icons=true&theme=tokyonight&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm ikyushi, and welcome to my GitHub! Here's where my website code lives, as well as the other millions (at least, that's what it feels like) of repos.
 
