@@ -12,5 +12,3 @@ See ya in the _Repositories_ tab!
 
 With much love,
 ikyushi
-
-&border_radius=10
